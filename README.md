@@ -1,2 +1,7 @@
-# intellij
-Code templates for intellij
+# Webstorm config
+
+## Directories:
+- codestyles
+- colors
+- keymaps
+- template
